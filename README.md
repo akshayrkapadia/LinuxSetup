@@ -7,3 +7,6 @@ cd LinuxSetup/scripts
 sudo chmod +x setup.sh
 ./setup.sh
 ```
+
+Once everything is installed you need to restart your terminal<br>
+The next time you run vim it will automatically install all the plugins
