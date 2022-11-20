@@ -100,12 +100,12 @@ export FZF_DEFAULT_COMMAND="ag -g '' -l --hidden -i"
 # ALIASES
 
 # APT
-alias dnfi="sudo dnf install"
-alias dnfr="sudo dnf remove"
-alias dnfu="sudo dnf update && sudo dnf upgrade"
-alias dnfs="dnf search"
-alias dnfa="sudo dnf autoremove"
-alias dnfm="dnfa && dnfu"
+alias apti="sudo apt install"
+alias aptr="sudo apt remove"
+alias aptu="sudo apt update && sudo apt upgrade"
+alias apts="apt search"
+alias apta="sudo apt autoremove"
+alias aptm="apta && aptu"
 
 # Git
 alias gitpush="gaa && gc -m 'Updated' && gp"
