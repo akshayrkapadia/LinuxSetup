@@ -117,6 +117,7 @@ alias snapu="sudo killall snap-store && sudo snap refresh"
 alias sysm="snapu && aptm"
 
 # Git
+alias gitc="git clone"
 alias gitpush="gaa && gc -m 'Updated' && gp"
 
 # Colorize
