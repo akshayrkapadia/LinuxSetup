@@ -1,0 +1,11 @@
+[:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+audible-bell=false
+background-color='rgb(28,28,28)'
+bold-is-bright=true
+font='Monospace 16'
+foreground-color='rgb(208,207,204)'
+palette=['rgb(31,34,41)', 'rgb(255,0,0)', 'rgb(94,189,171)', 'rgb(254,164,76)', 'rgb(54,123,240)', 'rgb(151,85,179)', 'rgb(73,174,230)', 'rgb(230,230,230)', 'rgb(90,92,96)', 'rgb(255,0,0)', 'rgb(39,127,255)', 'rgb(255,138,24)', 'rgb(71,212,185)', 'rgb(150,42,195)', 'rgb(5,161,247)', 'rgb(255,255,255)']
+scrollbar-policy='never'
+use-system-font=false
+use-theme-colors=false
+visible-name='gnome'
