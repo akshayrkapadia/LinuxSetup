@@ -8,4 +8,4 @@ palette=['rgb(31,34,41)', 'rgb(255,0,0)', 'rgb(94,189,171)', 'rgb(254,164,76)', 
 scrollbar-policy='never'
 use-system-font=false
 use-theme-colors=false
-visible-name='gnome'
+visible-name='default'
